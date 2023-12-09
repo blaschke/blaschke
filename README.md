@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blaschke
-- 👀 I’m interested in organization theory, quantiative research, ...
+- 👀 I’m interested in computational organization theory
 - 🌱 I’m currently learning how to categorize large amounts of text into speech acts
 - 💞️ I’m looking to collaborate on anything organization theory
 - 📫 I'm available at @blaschke on many platforms
